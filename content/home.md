@@ -1,6 +1,6 @@
 ---
 title: Hi there!
-subtitle: "I am a PhD student at the Automation and Robotics Research Group (ARG) of the University of Luxembourg. My research interest lies in novel environment representations for mobile robotics.
+subtitle: "I am a PhD student at the Automation and Robotics Research Group (ARG) of the University of Luxembourg. My research interest lies in novel environment representations for mobile robotics."
 
 social:
     email: mailto:eduardo.schmidt@uni.lu
