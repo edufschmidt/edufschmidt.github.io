@@ -1,9 +1,9 @@
 ---
 title: Hi there!
-subtitle: "I am a PhD student at the Automation and Robotics Research Group (ARG) of the University of Luxembourg. My research interest lies in novel environment representations for mobile robotics."
+subtitle: "Welcome to my personal page!"
 
 social:
-    email: mailto:eduardo.schmidt@uni.lu
+    email: mailto:edufschmidt@gmail.com
     github: https://github.com/edufschmidt
     linkedin: https://www.linkedin.com/in/eduardo-schmidt/
     stackoverflow: https://stackoverflow.com/users/3422069/edu
