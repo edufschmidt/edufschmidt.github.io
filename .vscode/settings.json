@@ -1,8 +1,0 @@
-{
-    "prettier.eslintIntegration": true,
-    "eslint.autoFixOnSave": true,
-    "eslint.packageManager": "yarn",
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    }
-}
