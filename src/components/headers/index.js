@@ -17,7 +17,7 @@ const StyledBox = styled(Box).attrs({
   }
 `
 
-const ProjectHeader = props => (
+const ProjectHeader = (props) => (
   <StyledBox {...props}>
     <Avatar name="some-project" size={64} round="4px" textSizeRatio={2} />
     <div>
@@ -27,7 +27,7 @@ const ProjectHeader = props => (
   </StyledBox>
 )
 
-const DeviceHeader = props => (
+const DeviceHeader = (props) => (
   <StyledBox {...props}>
     <Text textStyle="title">xyZ761kgVK</Text>
     <Text textStyle="subtitle">This projects does something really well</Text>

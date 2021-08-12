@@ -47,6 +47,7 @@ const Header = (props) => {
       <NavItems gridArea="nav" className="nav-default">
         <Nav to="/">Home</Nav>
         <Nav to="/about">About</Nav>
+        <Nav to="/personal">Personal</Nav>
         <Box alignItems="center">
           <Separator vertical bg="border" height="30px" />
           <IconButton
@@ -75,6 +76,7 @@ const Header = (props) => {
           <Box flexDirection="column" mt={3}>
             <Nav to="/">Home</Nav>
             <Nav to="/about">About</Nav>
+            <Nav to="/personal">Personal</Nav>
           </Box>
         </MobileMenu>
       </Modal>

@@ -17,7 +17,7 @@ const StyledLink = styled(Link)`
     cursor: auto;
   }
 
-  color: inherit;
+  color: ${(props) => props.theme.colors.accent1};
   
   :hover {
     ${(props) => props.hoverStyle}

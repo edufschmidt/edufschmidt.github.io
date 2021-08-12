@@ -65,6 +65,7 @@ const StyledListItem = ({ children, ...props }) => (
 const StyledList = styled(List)`
   margin: 0px 24px;
   flex-direction: column;
+  color: rgb(0, 199, 139) !important;
 `
 
 const StyledLink = styled.a`

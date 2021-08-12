@@ -11,6 +11,7 @@ import { Router } from '@reach/router'
 
 import Home from './home'
 import About from './about'
+import Personal from './personal'
 
 import { themes } from '../../styles'
 
@@ -95,6 +96,7 @@ const App = () => {
         <Content>
           <Home path="/" content={home} />
           <About path="/about" content={about} />
+          <Personal path="/personal" />
           <NotFound default />
         </Content>
         <Footer gridArea="footer" />

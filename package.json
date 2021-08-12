@@ -1,6 +1,6 @@
 {
   "name": "react-boilerplate",
-  "homepage" : "https://edufschmidt.github.io/",
+  "homepage": "https://edufschmidt.github.io/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,7 +19,9 @@
     "react": "^16.8.6",
     "react-avatar": "^3.6.0",
     "react-dom": "^16.8.6",
+    "react-images": "^1.2.0-beta.7",
     "react-markdown": "^5.0.2",
+    "react-photo-gallery": "^8.0.0",
     "react-portal": "^4.2.0",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
